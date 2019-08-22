@@ -9,3 +9,14 @@ C:\Projects\testAmazon\testAmazon\obj\Debug\netcoreapp2.1\testAmazon.AssemblyInf
 C:\Projects\testAmazon\testAmazon\obj\Debug\netcoreapp2.1\testAmazon.AssemblyInfo.cs
 C:\Projects\testAmazon\testAmazon\obj\Debug\netcoreapp2.1\testAmazon.dll
 C:\Projects\testAmazon\testAmazon\obj\Debug\netcoreapp2.1\testAmazon.pdb
+C:\Projects\TEstIgnore\testAmazon\bin\Debug\netcoreapp2.1\testAmazon.deps.json
+C:\Projects\TEstIgnore\testAmazon\bin\Debug\netcoreapp2.1\testAmazon.runtimeconfig.json
+C:\Projects\TEstIgnore\testAmazon\bin\Debug\netcoreapp2.1\testAmazon.runtimeconfig.dev.json
+C:\Projects\TEstIgnore\testAmazon\bin\Debug\netcoreapp2.1\testAmazon.dll
+C:\Projects\TEstIgnore\testAmazon\bin\Debug\netcoreapp2.1\testAmazon.pdb
+C:\Projects\TEstIgnore\testAmazon\obj\Debug\netcoreapp2.1\testAmazon.csprojAssemblyReference.cache
+C:\Projects\TEstIgnore\testAmazon\obj\Debug\netcoreapp2.1\testAmazon.csproj.CoreCompileInputs.cache
+C:\Projects\TEstIgnore\testAmazon\obj\Debug\netcoreapp2.1\testAmazon.AssemblyInfoInputs.cache
+C:\Projects\TEstIgnore\testAmazon\obj\Debug\netcoreapp2.1\testAmazon.AssemblyInfo.cs
+C:\Projects\TEstIgnore\testAmazon\obj\Debug\netcoreapp2.1\testAmazon.dll
+C:\Projects\TEstIgnore\testAmazon\obj\Debug\netcoreapp2.1\testAmazon.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\testAmazon\\testAmazon\\testAmazon.csproj": {}
+    "C:\\Projects\\TEstIgnore\\testAmazon\\testAmazon.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\testAmazon\\testAmazon\\testAmazon.csproj": {
+    "C:\\Projects\\TEstIgnore\\testAmazon\\testAmazon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\testAmazon\\testAmazon\\testAmazon.csproj",
+        "projectUniqueName": "C:\\Projects\\TEstIgnore\\testAmazon\\testAmazon.csproj",
         "projectName": "testAmazon",
-        "projectPath": "C:\\Projects\\testAmazon\\testAmazon\\testAmazon.csproj",
+        "projectPath": "C:\\Projects\\TEstIgnore\\testAmazon\\testAmazon.csproj",
         "packagesPath": "C:\\Users\\edgar\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\testAmazon\\testAmazon\\obj\\",
+        "outputPath": "C:\\Projects\\TEstIgnore\\testAmazon\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -44,6 +44,7 @@
         "netcoreapp2.1": {
           "dependencies": {
             "Microsoft.NETCore.App": {
+              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true

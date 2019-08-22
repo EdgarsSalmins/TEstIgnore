@@ -5842,11 +5842,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\testAmazon\\AmazonTestProject\\AmazonTestProject.csproj",
+      "projectUniqueName": "C:\\Projects\\TEstIgnore\\AmazonTestProject\\AmazonTestProject.csproj",
       "projectName": "AmazonTestProject",
-      "projectPath": "C:\\Projects\\testAmazon\\AmazonTestProject\\AmazonTestProject.csproj",
+      "projectPath": "C:\\Projects\\TEstIgnore\\AmazonTestProject\\AmazonTestProject.csproj",
       "packagesPath": "C:\\Users\\edgar\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\testAmazon\\AmazonTestProject\\obj\\",
+      "outputPath": "C:\\Projects\\TEstIgnore\\AmazonTestProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -5891,6 +5891,7 @@
             "version": "[15.9.0, )"
           },
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
