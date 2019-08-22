@@ -1,0 +1,11 @@
+C:\Projects\testAmazon\testAmazon\bin\Debug\netcoreapp2.1\testAmazon.deps.json
+C:\Projects\testAmazon\testAmazon\bin\Debug\netcoreapp2.1\testAmazon.runtimeconfig.json
+C:\Projects\testAmazon\testAmazon\bin\Debug\netcoreapp2.1\testAmazon.runtimeconfig.dev.json
+C:\Projects\testAmazon\testAmazon\bin\Debug\netcoreapp2.1\testAmazon.dll
+C:\Projects\testAmazon\testAmazon\bin\Debug\netcoreapp2.1\testAmazon.pdb
+C:\Projects\testAmazon\testAmazon\obj\Debug\netcoreapp2.1\testAmazon.csprojAssemblyReference.cache
+C:\Projects\testAmazon\testAmazon\obj\Debug\netcoreapp2.1\testAmazon.csproj.CoreCompileInputs.cache
+C:\Projects\testAmazon\testAmazon\obj\Debug\netcoreapp2.1\testAmazon.AssemblyInfoInputs.cache
+C:\Projects\testAmazon\testAmazon\obj\Debug\netcoreapp2.1\testAmazon.AssemblyInfo.cs
+C:\Projects\testAmazon\testAmazon\obj\Debug\netcoreapp2.1\testAmazon.dll
+C:\Projects\testAmazon\testAmazon\obj\Debug\netcoreapp2.1\testAmazon.pdb
