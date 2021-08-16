@@ -30,6 +30,30 @@ namespace FlightPlanner.Web.Controllers
         }
 
         [HttpPut, Route("flights")]
+        public IActionResult PutFlightsTest(AddFlightRequest request)
+        {
+            if (!ValidateFlight(request))
+                return BadRequest();
+            var flight = new Flight
+            {
+                ArrivalTime = DateTime.Parse(request.ArrivalTime),
+                Carrier = request.Carrier,
+                DepartureTime = DateTime.Parse(request.DepartureTime),
+                From = request.From,
+                To = request.To
+            };
+
+            var result = _flightService.Create(flight);
+            if (result.Succeeded)
+            {
+                flight.Id = result.Entity.Id;
+                return Created("", flight);
+            }
+
+            return BadRequest();
+        }
+
+        [HttpPut, Route("flights")]
         public IActionResult PutFlights(AddFlightRequest request)
         {
             if (!ValidateFlight(request))
