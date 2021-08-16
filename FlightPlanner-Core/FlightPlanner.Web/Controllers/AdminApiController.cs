@@ -29,6 +29,15 @@ namespace FlightPlanner.Web.Controllers
             return NotFound();
         }
 
+        [Route("flights/{id}")]
+        public IActionResult GetFlightTest(int id)
+        {
+            var flight = _flightService.GetById(id);
+            if (flight != null)
+                return Ok(flight);
+            return NotFound();
+        }
+
         [HttpPut, Route("flights")]
         public IActionResult PutFlights(AddFlightRequest request)
         {
